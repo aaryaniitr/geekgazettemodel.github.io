@@ -1,0 +1,46 @@
+nav{
+    font-size: 40px;
+    border: 2px solid rgb(100, 12, 26);
+    text-decoration-line: none;
+    background-color: #132f41;
+    padding-bottom: 1px;
+    
+    
+ }
+ a:link, a:visited {
+  background-color: none;
+  color: rgb(212, 40, 10);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+
+    color: rgb(142, 207, 134);
+}
+form {
+    padding: 15px;
+    border: 8px ;
+    border-color: rgb(12, 2, 3);
+    border-radius: 5px;
+    border-style: double;
+    font-family:cursive;
+    width: 50%;
+    text-align:left;
+
+}
+.container {
+    padding: ;
+    background-color: rgba(65, 185, 41, 0.46);
+    border:6px 4px 5px;
+    width: inherit;
+}
+.registration{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: cursive;
+}
+hr.line_2 {
+     color: rgb(241, 228, 228);
+     width: 3px;
+}

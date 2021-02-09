@@ -1,0 +1,44 @@
+nav{
+    font-size: 40px;
+    border: 2px solid rgb(100, 12, 26);
+    text-decoration-line: none;
+    background-color: #132f41;
+    padding-bottom: 1px;
+    
+    
+ }
+ a:link, a:visited {
+  background-color: none;
+  color: rgb(212, 40, 10);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+
+    color: rgb(142, 207, 134);
+}
+.verticals{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: cursive;
+    text-align: center;
+}
+.heading{
+    color: purple;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: cursive;
+    text-align: left;
+}
+.content{
+    color: rgb(53, 20, 53);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: cursive;
+    text-align: left;
+}
+.para{
+    background-color: #9ef1e6;
+    
+}
